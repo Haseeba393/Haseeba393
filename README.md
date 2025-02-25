@@ -8,7 +8,7 @@ I'm a **passionate Mobile App Developer & UI UX Designer** who loves designing a
 - 🏢 I'm currently working as a **Freelancer**
 - 🚀 I use daily: **Typescript**, **Git**, **React Native**, **Figma**, **VS Code**
 - 💻 I work using: **React Native**, **Expo**, **Redux/Context**, **React Query**, **Yup/Zod/React Hook Form**, **Nativewind**, **Styled-Components**, **Native Modules**
-- ⚡️ Fun fact: I'm a huge fan of Kratos (God of War) and I love to play video games and eat.
+- ⚡️ Fun fact: I'm a huge fan of **Kratos (God of War)** and I love to play **Video Games** and **Eat**.
 
 <br>
 
@@ -21,7 +21,6 @@ I'm a **passionate Mobile App Developer & UI UX Designer** who loves designing a
 <a href="https://instagram.com/quotiyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quotiyz" height="30" width="40" /></a>
 <a href="https://dribbble.com/haseeba393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="haseeba393" height="30" width="40" /></a>
 <a href="https://medium.com/@haseeba393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haseeba393" height="30" width="40" /></a>
-<a href="https://medium.com/@haseeba393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="@haseeba393" height="30" width="40" /></a>
 </p>
 
 <br>
